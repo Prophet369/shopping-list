@@ -13,13 +13,13 @@ body {
 
 h1 {
   font-family: Brush Script MT, Brush Script Std, cursive;
-  font-size: 6rem;
+  font-size: 3rem;
 }
 
 button {
   cursor: pointer;
-  width: 6em;
-  height: 3em;
+  width: 4em;
+  height: 2em;
   color: black;
   background-color: turquoise;
 }
@@ -30,14 +30,14 @@ ul {
 
 li {
   font-style: italic;
-  font-size: 3em;
+  font-size: 2em;
   font-weight: bold;
   color: black;
 }
 
 #userinput {
-  width: 40em;
-  height: 3em;
+  width: 20em;
+  height: 2em;
 }
 
 .done {
